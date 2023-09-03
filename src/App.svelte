@@ -1,13 +1,13 @@
 <script>
 	import Header from "./components/Header.svelte";
 	import Chart from "./components/Chart.svelte";
-	import PolarChart from "./components/PolarChart.svelte";
+	import Map from "./components/Map.svelte";
 </script>
 
 <main>
 	<Header />
 	<Chart />
-	<PolarChart />
+	<Map />
 </main>
 
 <style>

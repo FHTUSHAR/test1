@@ -135,6 +135,7 @@
         .header {
             width: 100%;
             display: block;
+            margin: auto;
         }
         .h_left {
             width: 100%;
